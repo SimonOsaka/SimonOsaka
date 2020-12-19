@@ -1,5 +1,3 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimonOsaka&repo=way-api)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimonOsaka&repo=my_adventures_api)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SimonOsaka&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
