@@ -1,9 +1,10 @@
-### hello world! 👋
+<img align=right src="https://github-readme-stats.vercel.app/api?username=SimonOsaka&show_icons=true&hide_title=true"/>
+
+### hi
 - 👨‍💻‍工作使用java语言
 - 🤟个人爱好rust语言
-- 🤮工作中经常是全栈程序员
+- 🤮工作中常是全栈程序员
 - 🍢五行缺串
-[![SimonOsaka's github stats](https://github-readme-stats.vercel.app/api?username=SimonOsaka&show_icons=true)](https://github.com/SimonOsaka/SimonOsaka)
 
 
 
