@@ -3,7 +3,8 @@
 - 🤟个人爱好rust语言，使用warp、sqlx等框架
 - 🤮工作中经常是全栈程序员，会一些html、css、js等前端语言和vue框架
 - 🍢五行缺串
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SimonOsaka&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![SimonOsaka's github stats](https://github-readme-stats.vercel.app/api?username=SimonOsaka&show_icons=true)](https://github.com/SimonOsaka/SimonOsaka)
 
 
 
