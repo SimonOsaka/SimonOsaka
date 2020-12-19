@@ -1,7 +1,7 @@
 ### hello world! 👋
 - 👨‍💻‍工作使用java语言，使用spring系列框架
 - 🤟个人爱好rust语言，使用warp、sqlx等框架
-- 🤮工作中经常是全栈程序员，会一些html、css、js等前端语言和vue框架
+- 🤮工作中经常是全栈程序员，
 - 🍢五行缺串
 
 [![SimonOsaka's github stats](https://github-readme-stats.vercel.app/api?username=SimonOsaka&show_icons=true)](https://github.com/SimonOsaka/SimonOsaka)
