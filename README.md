@@ -1,4 +1,5 @@
 ### hello world! 👋
+- 第一语言java，第二语言rust
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SimonOsaka&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
