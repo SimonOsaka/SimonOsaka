@@ -1,10 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SimonOsaka&show_icons=true&hide_title=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"/>
 
 ### hi
-- 😀工作java
-- 😃学习rust
-- 😆自研新技术
-- 🤣五行缺串
 
 
 
